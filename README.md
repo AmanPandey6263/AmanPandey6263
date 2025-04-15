@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Pandey.
 - 👀 I’m interested in Data Science related projects.
-- 🌱 I’m currently learning Computational Thinking with maths and stats for Data Science.
-- 💞️ I’m looking to collaborate on projects related to  foundation level data collection project.
+- 🌱 I’m currently learning Python and their libraries like numpy, pandas, etc.
+- 💞 I'm currently working as a Data Analyst at SVA.
 - 📫 Connect with me on https://www.linkedin.com/in/aman-pandey-iitm/
 - 😄 Pronouns: He/Him
 
