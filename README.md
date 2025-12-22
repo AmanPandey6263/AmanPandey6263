@@ -1,12 +1,78 @@
-- 👋 Hi, I’m Aman Pandey.
-- 👀 I’m interested in Data Science related projects.
-- 🌱 I’m currently learning Python and their libraries like numpy, pandas, etc.
-- 💞 I'm currently working as a Data Analyst at SVA.
-- 📫 Connect with me on https://www.linkedin.com/in/aman-pandey-iitm/
-- 😄 Pronouns: He/Him
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0b1120,100:991b1b&text=Aman%20Pandey&fontSize=40&fontColor=f9fafb&fontAlign=20&fontAlignY=40&desc=Web%20apps%20%7C%20Data%20%7C%20Systems&descAlign=22&descAlignY=60"
+    alt="Aman Pandey banner"
+/>
+</p>
 
 
-<!---
-AmanPandey6263/AmanPandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+<!-- ONE-LINER -->
+<p align="center">
+  <b>Data Science BS @ IIT Madras · Web Apps · Data & Backend</b><br/>
+  Building a new web application every week and evolving the best ones into production‑grade projects.
+</p>
+
+---
+
+## Now
+
+- Designing and coding at least one web app every week (idea → prototype → commit).  
+- Practicing clean architecture: routes, auth, database relationships, and documentation.  
+- Preparing a set of 4–5 apps to push to an “extraordinary” level with real users and real data.
+
+---
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,fastapi,sqlite,postgres,git,github,vscode,linux" alt="Tech stack icons" />
+</p>
+
+- Backend: Python, Flask / FastAPI, REST APIs  
+- Frontend: HTML, CSS, focused on clarity rather than heavy frameworks  
+- Data: Pandas, NumPy, SQL, analytics features inside apps  
+- Workflow: Git, GitHub, VS Code, disciplined commits and clear READMEs
+
+---
+
+## Web app routine
+
+This is the system behind the code on this profile.
+
+1. Weekly app  
+   - One small but complete web app every week, with a specific user and purpose.  
+   - Pushed with a minimal README, setup steps, and clear folder structure.
+
+2. Monthly review  
+   - At the end of each month: review that month’s apps and pick the strongest ideas.  
+   - Open issues, refactor, improve naming, and harden edge cases.
+
+3. Flagship apps  
+   - Over time, promote 4–5 apps to “flagship” status.  
+   - Add tests, docs, performance improvements, and a more polished UI.
+
+You will see this progression reflected in commit history, issues, and pinned repositories.
+
+---
+
+## How to read my repositories
+
+When you open any repo here, you can expect:
+
+- A short problem statement and what the app is trying to solve.  
+- Exact instructions to run it locally (no hidden steps).  
+- Notes on trade‑offs and ideas for the next version.
+
+As flagship apps emerge, they will be pinned on this profile.
+
+---
+
+## Links
+
+- GitHub: https://github.com/AmanPandey6263  
+- LinkedIn: https://www.linkedin.com/in/aman-pandey-iitm/
