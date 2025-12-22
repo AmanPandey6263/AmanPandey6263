@@ -1,7 +1,7 @@
 <!-- PROFILE BANNER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0b1120,100:991b1b&text=Aman%20Pandey&fontSize=40&fontColor=f9fafb&fontAlign=20&fontAlignY=40&desc=Web%20apps%20%7C%20Data%20%7C%20Systems&descAlign=22&descAlignY=60"
+    src="https://github.com/AmanPandey6263/AmanPandey6263/blob/main/Github%20header.png?raw=true"
     alt="Aman Pandey banner"
 />
 </p>
