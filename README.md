@@ -14,14 +14,14 @@
 <!-- ONE-LINER -->
 <p align="center">
   <b>Data Science BS @ IIT Madras · Web Apps · Data & Backend</b><br/>
-  Building a new web application every week and evolving the best ones into production‑grade projects.
+  Building a new web application every month and evolving the best ones into production‑grade projects.
 </p>
 
 ---
 
 ## Now
 
-- Designing and coding at least one web app every week (idea → prototype → commit).  
+- Designing and coding at least one web app every month (idea → prototype → commit).  
 - Practicing clean architecture: routes, auth, database relationships, and documentation.  
 - Preparing a set of 4–5 apps to push to an “extraordinary” level with real users and real data.
 
@@ -44,15 +44,12 @@
 
 This is the system behind the code on this profile.
 
-1. Weekly app  
-   - One small but complete web app every week, with a specific user and purpose.  
+1. Monthly app  
+   - One small but complete web app every month, with a specific user and purpose.  
    - Pushed with a minimal README, setup steps, and clear folder structure.
 
-2. Monthly review  
-   - At the end of each month: review that month’s apps and pick the strongest ideas.  
-   - Open issues, refactor, improve naming, and harden edge cases.
 
-3. Flagship apps  
+2. Flagship apps  
    - Over time, promote 4–5 apps to “flagship” status.  
    - Add tests, docs, performance improvements, and a more polished UI.
 
