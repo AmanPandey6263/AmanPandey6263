@@ -14,14 +14,14 @@
 <!-- ONE-LINER -->
 <p align="center">
   <b>Data Science BS @ IIT Madras · Web Apps · Data & Backend</b><br/>
-  Building a new web application every month and evolving the best ones into production‑grade projects.
+  Building new web applications and evolving the best ones into production‑grade projects.
 </p>
 
 ---
 
 ## Now
 
-- Designing and coding at least one web app every month (idea → prototype → commit).  
+- Designing and coding web apps (idea → prototype → commit).  
 - Practicing clean architecture: routes, auth, database relationships, and documentation.  
 - Preparing a set of 4–5 apps to push to an “extraordinary” level with real users and real data.
 
@@ -44,8 +44,8 @@
 
 This is the system behind the code on this profile.
 
-1. Monthly app  
-   - One small but complete web app every month, with a specific user and purpose.  
+1. Web app  
+   - One small but complete web app, with a specific user and purpose.  
    - Pushed with a minimal README, setup steps, and clear folder structure.
 
 
